@@ -1,10 +1,10 @@
+# Scala Basics
+Welcome to the Scala Basics repository! This repository serves as a comprehensive introduction to the Scala programming language, covering essential concepts, syntax, and best practices for writing Scala code.
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVsbXZneWhvMWVza2R3dXE3bmhvcWN2ODhtZzdhbDFhZG1lY2h3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/chOyZePGEHDoTSY2CA/giphy.gif" width = "300"/>
 </div>
 
-# Scala Basics
-
-Welcome to the Scala Basics repository! This repository serves as a comprehensive introduction to the Scala programming language, covering essential concepts, syntax, and best practices for writing Scala code.
 
 ## What is Scala?
 
